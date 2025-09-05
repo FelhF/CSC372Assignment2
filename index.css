@@ -19,6 +19,8 @@ b {
 
 p {
     font-family: 'Times New Roman', Times, serif;
+    display: block;
+    background-color: white;
     color: #404040;
     font-size: 11pt;
 }
