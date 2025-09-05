@@ -1,0 +1,30 @@
+
+h1 {text-align: center; font-size: 22pt;}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: #404040;
+    font-size: 11pt;
+}
+
+body {
+    background-image: url('./paris3.png');
+}
+
+h3 {font-size: 18pt;
+text-align: left;
+}
+
+img {margin-top: 5%; margin-bottom: 5%;}
+div2 {font-style: italic;
+display: block;
+background-color: #FFFFA8;
+font-size: larger;}
+
+ol {font-size: large;}
+ul {font-size: large;}
+
+
+a, h1{
+    color: #A4A400;
+    background-color: red;
+}
